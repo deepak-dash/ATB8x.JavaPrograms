@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="New Files Added">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_11092014_datatypes/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_11092014_datatypes/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_11092014_datatypes/Lab008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex_05092024/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_06092024/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/deepa/Desktop/ATB8X.JavaPrograms/ATB8x.JavaPrograms/src/Main.java",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.customizations"
   }
@@ -119,7 +120,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726637926443</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Files Added">
+      <option name="closed" value="true" />
+      <created>1726638877161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726638877161</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New Files Added">
+      <option name="closed" value="true" />
+      <created>1726639016574</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726639016574</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
