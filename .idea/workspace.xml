@@ -4,19 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="New Files Added">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab031.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab037.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab038.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/Lab042.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/lab033.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex18092024/lab039.java" afterDir="false" />
+    <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="18th sept operators">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab044.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab048_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab049.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab050.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab053.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab054.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/Lab055_gradecalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex20092024/lab052.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +73,21 @@
     "Application.Lab040.executor": "Run",
     "Application.Lab041.executor": "Run",
     "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048_Math.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055_gradecalculator.executor": "Run",
     "Application.lab033.executor": "Run",
     "Application.lab039.executor": "Run",
+    "Application.lab052.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
@@ -84,13 +98,13 @@
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab042">
-    <configuration name="Lab038" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex18092024.Lab038" />
+  <component name="RunManager" selected="Application.Lab055_gradecalculator">
+    <configuration name="Lab051" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex20092024.Lab051" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex18092024.*" />
+          <option name="PATTERN" value="Sept.ex20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex18092024.Lab040" />
+    <configuration name="Lab053" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex20092024.Lab053" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex18092024.*" />
+          <option name="PATTERN" value="Sept.ex20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex18092024.Lab041" />
+    <configuration name="Lab054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex20092024.Lab054" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex18092024.*" />
+          <option name="PATTERN" value="Sept.ex20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex18092024.Lab042" />
+    <configuration name="Lab055_gradecalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex20092024.Lab055_gradecalculator" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex18092024.*" />
+          <option name="PATTERN" value="Sept.ex20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex18092024.lab039" />
+    <configuration name="lab052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.ex20092024.lab052" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex18092024.*" />
+          <option name="PATTERN" value="Sept.ex20092024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab042" />
-        <item itemvalue="Application.Lab041" />
-        <item itemvalue="Application.Lab040" />
-        <item itemvalue="Application.lab039" />
-        <item itemvalue="Application.Lab038" />
+        <item itemvalue="Application.Lab055_gradecalculator" />
+        <item itemvalue="Application.Lab054" />
+        <item itemvalue="Application.Lab053" />
+        <item itemvalue="Application.lab052" />
+        <item itemvalue="Application.Lab051" />
       </list>
     </recent_temporary>
   </component>
@@ -249,12 +263,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726667055025</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="18th sept operators">
+      <option name="closed" value="true" />
+      <created>1727008022125</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727008022125</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Files Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Files Added" />
+    <MESSAGE value="18th sept operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="18th sept operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
