@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="20th Sept Task">
-      <change afterPath="$PROJECT_DIR$/src/Sept/Task_2009/Task5_Fizzbuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/Task1309/ModulusOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/Task_2009/Task5_Fizzbuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Task_2009/Task5_Fizzbuzz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,7 @@
     "Application.Lab053_Switch.executor": "Run",
     "Application.Lab054.executor": "Run",
     "Application.Lab055_gradecalculator.executor": "Run",
+    "Application.ModulusOperator.executor": "Run",
     "Application.Sept.ex23092024.Lab054.executor": "Run",
     "Application.Task1_TernaryOperator.executor": "Run",
     "Application.Task2_TernaryOperator_Multiple_Conditions.executor": "Run",
@@ -95,13 +97,13 @@
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task5_Fizzbuzz">
-    <configuration name="Task1_TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.Task_2009.Task1_TernaryOperator" />
+  <component name="RunManager" selected="Application.ModulusOperator">
+    <configuration name="ModulusOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Task1309.ModulusOperator" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.Task_2009.*" />
+          <option name="PATTERN" value="Sept.Task1309.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ModulusOperator" />
         <item itemvalue="Application.Task5_Fizzbuzz" />
         <item itemvalue="Application.task4_LeapYear" />
         <item itemvalue="Application.Task3_Triangle_Classifier" />
         <item itemvalue="Application.Task2_TernaryOperator_Multiple_Conditions" />
-        <item itemvalue="Application.Task1_TernaryOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727093997844</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20th Sept Task">
+      <option name="closed" value="true" />
+      <created>1727094313603</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727094313603</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
