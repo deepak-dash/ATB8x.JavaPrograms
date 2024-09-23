@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="23rd sept Switch">
-      <change afterPath="$PROJECT_DIR$/src/Sept/Task_2009/Task2_TernaryOperator_Multiple_Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/Task_2009/Task3_Triangle_Classifier.java" afterDir="false" />
+    <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="20th Sept Task">
+      <change afterPath="$PROJECT_DIR$/src/Sept/Task_2009/Task5_Fizzbuzz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/Task/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Task_2009/Task1_TernaryOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/Task/Day2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex23092024/Lab057.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex23092024/Lab057.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sept/ex23092024/Lab058.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex23092024/Lab058.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +79,12 @@
     "Application.Task1_TernaryOperator.executor": "Run",
     "Application.Task2_TernaryOperator_Multiple_Conditions.executor": "Run",
     "Application.Task3_Triangle_Classifier.executor": "Run",
+    "Application.Task5_Fizzbuzz.executor": "Run",
     "Application.lab033.executor": "Run",
     "Application.lab039.executor": "Run",
     "Application.lab052.executor": "Run",
     "Application.lab055.executor": "Run",
+    "Application.task4_LeapYear.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
@@ -98,7 +95,7 @@
     "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.task4_LeapYear">
+  <component name="RunManager" selected="Application.Task5_Fizzbuzz">
     <configuration name="Task1_TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sept.Task_2009.Task1_TernaryOperator" />
       <module name="ATB8x.JavaPrograms" />
@@ -138,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lab055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.ex23092024.lab055" />
+    <configuration name="Task5_Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Task_2009.Task5_Fizzbuzz" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.ex23092024.*" />
+          <option name="PATTERN" value="Sept.Task_2009.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task5_Fizzbuzz" />
         <item itemvalue="Application.task4_LeapYear" />
         <item itemvalue="Application.Task3_Triangle_Classifier" />
         <item itemvalue="Application.Task2_TernaryOperator_Multiple_Conditions" />
         <item itemvalue="Application.Task1_TernaryOperator" />
-        <item itemvalue="Application.lab055" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727076099097</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="20th Sept Task">
+      <option name="closed" value="true" />
+      <created>1727093997844</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727093997844</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -295,7 +300,8 @@
     <MESSAGE value="18th sept operators" />
     <MESSAGE value="20th sept operators" />
     <MESSAGE value="23rd sept Switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="23rd sept Switch" />
+    <MESSAGE value="20th Sept Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="20th Sept Task" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
