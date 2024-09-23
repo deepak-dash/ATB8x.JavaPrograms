@@ -12,7 +12,7 @@ public class Lab058 {
                 System.out.println("None");
                 System.out.println("None");
                 break;
-            case 001,002,005:
+            /*case 001,002,005:
                 System.out.println("All of the them are Electronic Gadget");
                 System.out.println("All of the them are Electronic Gadget");
                 System.out.println("All of the them are Electronic Gadget");
@@ -21,7 +21,7 @@ public class Lab058 {
                 System.out.println("This is Mech");
                 System.out.println("This is Mech");
                 System.out.println("This is Mech");
-                break;
+                break;*/
 
         }
     }
