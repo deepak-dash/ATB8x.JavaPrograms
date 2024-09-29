@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="16th Sept Task DataTypes">
-      <change afterPath="$PROJECT_DIR$/src/Sept/Task2309/Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/Task2309/SimpleCalculator.java" afterDir="false" />
+    <list default="true" id="c5ba5bb1-2049-4948-9812-b5f9b4275166" name="Changes" comment="23rd Sept Task Switch">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/LeftTraingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programs/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/Task2509/CountVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/Task2509/PrintPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/Task2509/TableOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/Task2509/factorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex25092024/Lab067.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex25092024/Lab068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex25092024/Lab069.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex25092024/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex25092024/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex25092024/Lab072.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/Task_2009/task4_LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/Task_2009/task4_LeapYear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +38,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "deepak-dash"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/deepak-dash/ATB8x.JavaPrograms.git",
+    "accountId": "8c67263e-52b4-4a73-955a-34f4942a76e6"
+  }
+}]]></component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -39,73 +64,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Calendar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab012.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab016.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab017.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab020_Compound_Assignment_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab021_RelationalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab022.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab026.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab027.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab029.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab031.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab032.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab034.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab037.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab038.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab040.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab041.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab042.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab043.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab044.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab045.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab046.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab048_Math.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab049.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab050.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab051.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab053.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab053_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab054.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab055_gradecalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ModulusOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sept.ex23092024.Lab054.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1_TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2_TernaryOperator_Multiple_Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task3_Triangle_Classifier.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task5_Fizzbuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab033.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab039.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab052.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab055.executor&quot;: &quot;Run&quot;,
-    &quot;Application.task4_LeapYear.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/deepa/Desktop/ATB8X.JavaPrograms/ATB8x.JavaPrograms/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Calendar.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.DifferentUnits.executor": "Run",
+    "Application.Lab004.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Lab012.executor": "Run",
+    "Application.Lab014.executor": "Run",
+    "Application.Lab016.executor": "Run",
+    "Application.Lab017.executor": "Run",
+    "Application.Lab018.executor": "Run",
+    "Application.Lab020_Compound_Assignment_operator.executor": "Run",
+    "Application.Lab021_RelationalOperator.executor": "Run",
+    "Application.Lab022.executor": "Run",
+    "Application.Lab026.executor": "Run",
+    "Application.Lab027.executor": "Run",
+    "Application.Lab029.executor": "Run",
+    "Application.Lab031.executor": "Run",
+    "Application.Lab032.executor": "Run",
+    "Application.Lab034.executor": "Run",
+    "Application.Lab037.executor": "Run",
+    "Application.Lab038.executor": "Run",
+    "Application.Lab040.executor": "Run",
+    "Application.Lab041.executor": "Run",
+    "Application.Lab042.executor": "Run",
+    "Application.Lab043.executor": "Run",
+    "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
+    "Application.Lab046.executor": "Run",
+    "Application.Lab047.executor": "Run",
+    "Application.Lab048_Math.executor": "Run",
+    "Application.Lab049.executor": "Run",
+    "Application.Lab050.executor": "Run",
+    "Application.Lab051.executor": "Run",
+    "Application.Lab053.executor": "Run",
+    "Application.Lab053_Switch.executor": "Run",
+    "Application.Lab054.executor": "Run",
+    "Application.Lab055_gradecalculator.executor": "Run",
+    "Application.Lab067.executor": "Debug",
+    "Application.Lab070.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Run",
+    "Application.LeftTraingle.executor": "Run",
+    "Application.ModulusOperator.executor": "Run",
+    "Application.Print1To100ForLoop.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.RightTriangle.executor": "Run",
+    "Application.Sept.ex23092024.Lab054.executor": "Run",
+    "Application.TableOfNumbers.executor": "Run",
+    "Application.Task1_TernaryOperator.executor": "Run",
+    "Application.Task2_TernaryOperator_Multiple_Conditions.executor": "Run",
+    "Application.Task3_Triangle_Classifier.executor": "Run",
+    "Application.Task5_Fizzbuzz.executor": "Run",
+    "Application.factorialNumber.executor": "Run",
+    "Application.lab033.executor": "Run",
+    "Application.lab039.executor": "Run",
+    "Application.lab052.executor": "Run",
+    "Application.lab055.executor": "Run",
+    "Application.task4_LeapYear.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/deepa/Desktop/ATB8X.JavaPrograms/ATB8x.JavaPrograms/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
-}</component>
-  <component name="RunManager" selected="Application.DifferentUnits">
-    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.Task2309.Calendar" />
+}]]></component>
+  <component name="RunManager" selected="Application.RightTriangle">
+    <configuration name="LeftTraingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.LeftTraingle" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.Task2309.*" />
+          <option name="PATTERN" value="Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.Task1609.DataTypes" />
+    <configuration name="PrintPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Task2509.PrintPrimeNumbers" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.Task1609.*" />
+          <option name="PATTERN" value="Sept.Task2509.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferentUnits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.Task2309.DifferentUnits" />
+    <configuration name="RightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programs.RightTriangle" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.Task2309.*" />
+          <option name="PATTERN" value="Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModulusOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.Task1309.ModulusOperator" />
+    <configuration name="TableOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Task2509.TableOfNumbers" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.Task1309.*" />
+          <option name="PATTERN" value="Sept.Task2509.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5_Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sept.Task_2009.Task5_Fizzbuzz" />
+    <configuration name="factorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sept.Task2509.factorialNumber" />
       <module name="ATB8x.JavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sept.Task_2009.*" />
+          <option name="PATTERN" value="Sept.Task2509.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DifferentUnits" />
-        <item itemvalue="Application.Calendar" />
-        <item itemvalue="Application.DataTypes" />
-        <item itemvalue="Application.ModulusOperator" />
-        <item itemvalue="Application.Task5_Fizzbuzz" />
+        <item itemvalue="Application.RightTriangle" />
+        <item itemvalue="Application.LeftTraingle" />
+        <item itemvalue="Application.PrintPrimeNumbers" />
+        <item itemvalue="Application.factorialNumber" />
+        <item itemvalue="Application.TableOfNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -320,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727104551265</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="23rd Sept Task Switch">
+      <option name="closed" value="true" />
+      <created>1727112555010</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727112555010</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -331,7 +375,8 @@
     <MESSAGE value="20th Sept Task" />
     <MESSAGE value="13th Sept Task" />
     <MESSAGE value="16th Sept Task DataTypes" />
-    <option name="LAST_COMMIT_MESSAGE" value="16th Sept Task DataTypes" />
+    <MESSAGE value="23rd Sept Task Switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="23rd Sept Task Switch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
