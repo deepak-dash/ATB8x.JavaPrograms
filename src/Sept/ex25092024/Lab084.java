@@ -2,7 +2,6 @@ package Sept.ex25092024;
 
 public class Lab084 {
     public static void main(String[] args) {
-        // while
         // while - A, B, C
         //         // A - Init
         //        // B - Condition
