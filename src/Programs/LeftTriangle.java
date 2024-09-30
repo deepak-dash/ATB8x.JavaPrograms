@@ -1,6 +1,6 @@
 package Programs;
 
-public class Leftingle {
+public class LeftTriangle {
     public static void main(String[] args) {
 
         int n =5;
