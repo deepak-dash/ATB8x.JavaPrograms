@@ -34,10 +34,5 @@ public class Lab172_ArrayList_Iterate {
         }
 
 
-
-
-
-
-
     }
 }

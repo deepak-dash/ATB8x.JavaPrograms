@@ -5,14 +5,10 @@ import java.util.List;
 public class Lab166_List {
     public static void main(String[] args) {
         // List list  = new List();
-       // List list = List.of("banana","apple","grapes","orange");
-        //System.out.println(list);
-        //System.out.println(list.size());
-        // list.add("guava"); // UnsupportedOperationException
-
-
-
-
+        List list = List.of("banana","apple","grapes","orange");
+        System.out.println(list);
+        System.out.println(list.size());
+        list.add("guava"); // UnsupportedOperationException
 
     }
 }

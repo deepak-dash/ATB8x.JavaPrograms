@@ -20,7 +20,7 @@ public class Lab174_LinkedList {
 
 
         List mylist1 = new ArrayList(); // FR - CO
-        mylist1.add("Pramod");
+        mylist1.add("Deepak");
         mylist1.add("Anusha");
         mylist1.add("Kiran");
 

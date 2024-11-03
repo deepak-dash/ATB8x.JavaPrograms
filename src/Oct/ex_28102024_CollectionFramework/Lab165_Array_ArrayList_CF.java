@@ -15,8 +15,8 @@ public class Lab165_Array_ArrayList_CF {
         // Collections of students -
 
         ArrayList studentList = new ArrayList();
-        studentList.add("Pramod");
-        studentList.add("Dutta");
+        studentList.add("Deepak");
+        studentList.add("Dash");
         studentList.add("Dutta"); // Duplicate is allowed.
         studentList.add("Anil");
         studentList.add("Amit");
@@ -28,15 +28,6 @@ public class Lab165_Array_ArrayList_CF {
 
 
         // Integer[] names = new Integer[5]; - Fixed, Same Data Types
-
-
-
-
-
-
-
-
-
 
     }
 }

@@ -7,7 +7,7 @@ import java.util.Vector;
 public class Lab173_Vector {
     public static void main(String[] args) {
         List mylist1 = new ArrayList(5); // FR - CO
-        mylist1.add("Pramod");
+        mylist1.add("Deepak");
         mylist1.add("Anusha");
         mylist1.add("Kiran");
         mylist1.add("Kiran");
@@ -17,7 +17,7 @@ public class Lab173_Vector {
 
 
         Vector v = new Vector();
-        v.add("Pramod"); // t1
+        v.add("Deepak"); // t1
         v.add("Anusha"); // t1
         v.add("Kiran"); // t1
         System.out.println(v);

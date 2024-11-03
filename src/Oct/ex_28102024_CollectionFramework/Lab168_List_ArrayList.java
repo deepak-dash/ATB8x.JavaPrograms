@@ -18,7 +18,7 @@ public class Lab168_List_ArrayList {
         System.out.println(list.isEmpty());
 //        System.out.println(list.contains(1)); - //false
         System.out.println(list.contains("1"));
-        System.out.println(list.indexOf("3")); //find the first occ of element in list
+        System.out.println(list.indexOf("3")); //find the first occurrence of element in list
         System.out.println(list.lastIndexOf("3")); //find the first occ of element in list
 
 
